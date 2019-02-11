@@ -38,6 +38,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="CodingLoopBase.cs" />
         <Compile Include="Galois.cs" />
         <Compile Include="ICodingLoop.cs" />
         <Compile Include="Matrix.cs" />
