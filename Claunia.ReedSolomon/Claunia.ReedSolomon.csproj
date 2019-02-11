@@ -45,6 +45,7 @@
         <Compile Include="CodingLoopBase.cs" />
         <Compile Include="Galois.cs" />
         <Compile Include="ICodingLoop.cs" />
+        <Compile Include="InputByteOutputExpCodingLoop.cs" />
         <Compile Include="Matrix.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
