@@ -25,12 +25,12 @@ namespace Claunia.ReedSolomon
         [SuppressMessage("ReSharper", "InconsistentNaming")]
         public static readonly ICodingLoop[] ALL_CODING_LOOPS =
         {
-            /*new ByteInputOutputExpCodingLoop(), new ByteInputOutputTableCodingLoop(),
+            new ByteInputOutputExpCodingLoop(), new ByteInputOutputTableCodingLoop(),
             new ByteOutputInputExpCodingLoop(), new ByteOutputInputTableCodingLoop(),
             new InputByteOutputExpCodingLoop(), new InputByteOutputTableCodingLoop(),
             new InputOutputByteExpCodingLoop(), new InputOutputByteTableCodingLoop(),
             new OutputByteInputExpCodingLoop(), new OutputByteInputTableCodingLoop(),
-            new OutputInputByteExpCodingLoop(), new OutputInputByteTableCodingLoop()*/
+            new OutputInputByteExpCodingLoop(), new OutputInputByteTableCodingLoop()
         };
 
         public abstract void CodeSomeShards(byte[][] matrixRows, byte[][] inputs, int inputCount, byte[][] outputs,
