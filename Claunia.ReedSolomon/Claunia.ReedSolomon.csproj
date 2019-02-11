@@ -40,6 +40,7 @@
     <ItemGroup>
         <Compile Include="ByteInputOutputExpCodingLoop.cs" />
         <Compile Include="ByteInputOutputTableCodingLoop.cs" />
+        <Compile Include="ByteOutputInputExpCodingLoop.cs" />
         <Compile Include="CodingLoopBase.cs" />
         <Compile Include="Galois.cs" />
         <Compile Include="ICodingLoop.cs" />
