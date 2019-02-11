@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claunia.ReedSolomon", "Claunia.ReedSolomon\Claunia.ReedSolomon.csproj", "{4213781F-6943-446C-B7A4-4E93C3227389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReedSolomonBenchmark", "ReedSolomonBenchmark\ReedSolomonBenchmark.csproj", "{D29AB600-D6D9-464D-A0DE-C8CEE1FDE73C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4213781F-6943-446C-B7A4-4E93C3227389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4213781F-6943-446C-B7A4-4E93C3227389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4213781F-6943-446C-B7A4-4E93C3227389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29AB600-D6D9-464D-A0DE-C8CEE1FDE73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29AB600-D6D9-464D-A0DE-C8CEE1FDE73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29AB600-D6D9-464D-A0DE-C8CEE1FDE73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29AB600-D6D9-464D-A0DE-C8CEE1FDE73C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
