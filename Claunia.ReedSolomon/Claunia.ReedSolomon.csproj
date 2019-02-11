@@ -48,6 +48,7 @@
         <Compile Include="InputByteOutputExpCodingLoop.cs" />
         <Compile Include="InputByteOutputTableCodingLoop.cs" />
         <Compile Include="InputOutputByteExpCodingLoop.cs" />
+        <Compile Include="InputOutputByteTableCodingLoop.cs" />
         <Compile Include="Matrix.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
